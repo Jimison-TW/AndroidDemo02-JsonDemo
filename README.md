@@ -1,5 +1,7 @@
 # JsonDemo
 
+![image](https://github.com/Jimison-TW/AndroidDemo02-JsonDemo/blob/master/device-2018-07-27-145410.png?raw=true)
+
 ## 開發版本
 Andorid 3.1.2 </br>
 SdkVersion 27 </br>
